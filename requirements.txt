@@ -1,0 +1,4 @@
+# Core dependencies for CCN
+pybluez>=0.23
+# If you run on Linux with system BlueZ support, pybluez may be optional.
+# If you only use TCP for testing, you can omit Bluetooth-specific packages.
